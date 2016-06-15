@@ -1,0 +1,28 @@
+name: The Promise
+favicon: null
+layout_spectrum: 0.5328607051633298
+typography_spectrum: 0.3289508374873549
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0966140276286751
+  lightness: 0.8496903595514596
+  saturation: 0.8591887741349638
+  rhythmicContrast: 0.18849298218265176
+purpose: []
